@@ -545,10 +545,12 @@ int main(int argc, char **argv)
 ## OUTPUT:
 
 ### WITH MEMSET
-![image](https://github.com/user-attachments/assets/fb0a3dea-5b5f-4e42-a9ef-cee20cdf4004)
+<img width="1597" height="152" alt="image" src="https://github.com/user-attachments/assets/9e8077eb-5d0d-4d58-9aac-959432b73393" />
+
 
 ### WITHOUT MEMSET
-![image](https://github.com/user-attachments/assets/a16a70b8-3d85-41f4-9966-f47ffe193e20)
+<img width="1595" height="150" alt="image" src="https://github.com/user-attachments/assets/498706af-d27a-455f-bc69-4cb9133c4a16" />
+
 
 
 ## RESULT:
